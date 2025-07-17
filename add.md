@@ -1,6 +1,10 @@
-[< к содержанию](readme.md)
+[< К содержанию](readme.md) 
 
-## git add
+[ > Далее (Что-то)]()
+
+
+
+#  <p style="text-align: center;">Git add</p>
 
 **git add *[файл]*** - добавляет файл в индекс
 
