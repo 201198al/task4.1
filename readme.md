@@ -1,4 +1,4 @@
-#  <p style="text-align: center;">Инструкция по работе с GIT</p>
+#  Инструкция по работе с GIT
 
 LICENSE: [MIT](./license.md)
 

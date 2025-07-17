@@ -4,7 +4,7 @@
 
 
 
-#  <p style="text-align: center;">Git add</p>
+#  Git add
 
 **git add *[файл]*** - добавляет файл в индекс
 
