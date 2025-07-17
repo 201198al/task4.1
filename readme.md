@@ -10,6 +10,7 @@ LICENSE: [MIT](./license.md)
 1. [Введение в GIT](./Intro.md)
 2. [Git Init](./init.md)
 3. [Git add](./add.md)
+4. [Git commit](./commit.md)
 
 ---
 
