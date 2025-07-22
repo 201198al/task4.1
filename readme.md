@@ -16,6 +16,7 @@ LICENSE: [MIT](./license.md)
 7. [Git merge](./merge.md)
 8. [Git branch](./branch.md)
 9. [Git pull](./pull.md)
+10. [Git push](./push.md)
 
 ---
 
