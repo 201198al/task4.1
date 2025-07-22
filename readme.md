@@ -8,11 +8,12 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание:
 1. [Введение в GIT](./Intro.md)
-2. [Git Init](./init.md)
+2. [Git init](./init.md)
 3. [Git add](./add.md)
 4. [Git commit](./commit.md)
 5. [Git status](./status.md)
 6. [Git clone](./clone.md)
+7. [Git merge](./merge.md)
 
 ---
 

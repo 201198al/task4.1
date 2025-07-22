@@ -1,7 +1,7 @@
 
 [< К содержанию](readme.md) 
 
-[ > Далее (Что-то)]()
+[ > Далее (Git merge)](./merge.md)
 
 
  # Git clone
