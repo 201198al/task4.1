@@ -11,6 +11,7 @@ LICENSE: [MIT](./license.md)
 2. [Git Init](./init.md)
 3. [Git add](./add.md)
 4. [Git commit](./commit.md)
+5. [Git Status](./status.md)
 
 ---
 
