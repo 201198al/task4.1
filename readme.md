@@ -14,6 +14,7 @@ LICENSE: [MIT](./license.md)
 5. [Git status](./status.md)
 6. [Git clone](./clone.md)
 7. [Git merge](./merge.md)
+8. [Git branch](./branch.md)
 
 ---
 
