@@ -1,7 +1,7 @@
 
 [< К содержанию](readme.md) 
 
-[ > Далее (Что-то)]()
+[ > Далее (Git pull)](./pull.md)
 
 
  # Git branch
