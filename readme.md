@@ -17,6 +17,7 @@ LICENSE: [MIT](./license.md)
 8. [Git branch](./branch.md)
 9. [Git pull](./pull.md)
 10. [Git push](./push.md)
+11. [Тест для самопроверки](./test.md)
 
 ---
 
